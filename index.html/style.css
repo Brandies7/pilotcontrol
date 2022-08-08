@@ -14,13 +14,13 @@ body {
 
 
 /* S.O.S. text */
-.sos {
-    background-color: dodgerblue;
-    color: white;
-    padding: 5px;
-    width: 30%;
-    text-align: left;
-    margin-left: 20px;
-    font-size: 1em;
-    border-radius: 8px;
+.sos:hover {
+    background-color: red;
+    color: yellow;
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
